@@ -1,5 +1,6 @@
 # is_Even
 This is an extension Samuel Miller's is_even code. I can't create a PR for reasons, so I made this.
+The index.js file supported will support 69 million numbers.
 
 Steps to use this:
 1. make a folder, make a file in it name its index.js
